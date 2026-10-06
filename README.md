@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rowan01g
 - 👀 I’m interested in Whiskey Chemistry!
-- 🌱 I’m currently learning Python for Data Science!
+- 🌱 I’m currently learning Python for Data Science and Machine Learning!
 - 📫 How to reach me  - rowangibbard01@gmail.com
 
 <!---
